@@ -4,6 +4,10 @@
 A conversational AI agent for **AutoStream** — a fictional SaaS platform for automated video editing. The agent handles product queries using RAG, detects high-intent users, and captures leads via a mock tool — all powered by **Llama 3.1 (local)** and **LangGraph**.
 
 ---
+## Demo
+
+![Agent Demo](Assets/Demo_GIF.gif)
+---
 
 ## 🚀 How to Run Locally
 
