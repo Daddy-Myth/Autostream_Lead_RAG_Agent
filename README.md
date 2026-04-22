@@ -43,7 +43,7 @@ Agent: That's awesome! I'd love to get you set up. What's your name?
 
 ---
 
-## Architecture (~200 words)
+## Architecture
 
 The agent is built using **LangGraph**, a stateful graph execution framework from LangChain. LangGraph was chosen over AutoGen because it provides explicit, auditable state transitions — each node in the graph has a single responsibility, making the pipeline easy to debug and extend.
 
